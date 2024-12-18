@@ -1,0 +1,13 @@
+[2024-12-17 16:55:54] Added new product: Red Tea
+[2024-12-17 17:24:22] Added new product: Blue Berry tea
+
+
+[2024-12-17 21:13:20] Delete Product
+
+[2024-12-17 21:15:58] Delete Product
+[2024-12-17 21:18:46] Delete Product
+[2024-12-17 21:19:09] Delete Product
+[2024-12-17 21:20:44] Delete Product
+[2024-12-17 21:30:13] Delete Product
+[2024-12-18 00:26:36] Added new product: Apple
+[2024-12-18 00:34:10] Delete Product
